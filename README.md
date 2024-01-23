@@ -86,9 +86,6 @@ Configure discount prices for shows before 6pm and for Tuesday shows
 ![Regsiter page web UI.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Regsiter%20page%20web%20UI.jpg)
 ![Rewards page.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Rewards%20page.jpg)
 
-## Sprint BurnDown Chart
-[Sprint Task Sheet and burndown strawhats.xlsx](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Sprint%20Task%20Sheet%20and%20burndown%20strawhats.xlsx)
-
 ## Steps to run the application
 
 1. git clone [repo](https://github.com/gopinathsjsu/team-project-ysmp.git)
